@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atv-02</string>
+    <string name="melhor_usar">It is better to use ...</string>
+    <string name="gasolina">Price of liter of gasoline</string>
+    <string name="etanol">Price of liter of ethanol</string>
+    <string name="result">Result</string>
+    <string name="result_gasolina">Gasoline</string>
+    <string name="result_etanol">Ethanol</string>
+</resources>

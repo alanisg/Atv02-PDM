@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atv-02</string>
+    <string name="melhor_usar">É melhor usar...</string>
+    <string name="gasolina">Preço do litro da gasolina</string>
+    <string name="etanol">Preço do litro da etanol</string>
+    <string name="result">Resultado</string>
+    <string name="result_gasolina">Gasolina</string>
+    <string name="result_etanol">Etanol</string>
+</resources>
